@@ -1,0 +1,2 @@
+# RoboMaster_Rookie_Contest
+RoboMaster25届新生赛
